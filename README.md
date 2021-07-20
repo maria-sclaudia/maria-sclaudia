@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Eu sou a Maria Cláudia
  
 :woman_technologist: Desenvolvedora de software no FIT - Instituto de Tecnologia  <br />
-:books: Análise e Desenvovimento de Sistemas <br />
+:books: Análise e Desenvolvimento de Sistemas <br />
 :house_with_garden: São Paulo - Brasil <br />
 
 ### :computer: Tecnologias
